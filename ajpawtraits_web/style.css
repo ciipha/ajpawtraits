@@ -1,0 +1,116 @@
+html {
+    background-color: white;
+    font-size: 30px;
+}
+
+body {
+    font-size: 15px;
+}
+.montserrat-bold-gray {
+    font-family: "Montserrat", serif;
+    color:darkgray;
+    font-weight: 600;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  
+  .montserrat-bold-black {
+    font-family: "Montserrat", serif;
+    color:black;
+    font-weight: 600;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+  .montserrat-h1 {
+    font-family: "Montserrat", serif;
+    color:black;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+    margin-bottom: 0px;
+  }
+  .montserrat-menu {
+    font-family: "Montserrat", serif;
+    font-size: 1rem;
+    margin-bottom: 3px;
+    color: darkgray;
+    font-weight: 500;
+    font-style: unset;
+  }
+
+  .montserrat-the-rest {
+    font-family: "Montserrat", serif;
+    color:black;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+    margin-bottom: 0px;
+  }
+
+  .img-cen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  } 
+  
+  .container {
+    display: float;
+    justify-content: center;
+  }
+
+  #main-h1 {
+    padding-bottom: 0px;
+    font-size: 2rem;
+    text-align: center;
+    height: 50%;
+    margin-bottom: 7px;
+  }
+
+  .txt-cen {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .logo2 {
+    margin-top: 10px;
+    margin-left: 1em;
+    width: 50px;
+  }
+
+  h2 {
+    font-family: "Montserrat", serif;
+    color:black;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0px;
+    margin-left: .6em;
+  }
+
+  p {
+    font-family: "Montserrat", serif;
+    color:black;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+    margin-bottom: 0px;
+    text-align: justify;
+    margin-left: 1em;
+    margin-right: 1rem;
+  }
+
+  .email-detail {
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    margin-left: 1em;
+    color: blue;
+    font-weight: 500;
+    font-style: unset;
+  }
+
