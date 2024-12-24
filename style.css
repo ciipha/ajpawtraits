@@ -32,8 +32,8 @@ body {
   }
   .montserrat-menu {
     font-family: "Montserrat", serif;
-    font-size: 1rem;
-    margin-bottom: 3px;
+    font-size: .8rem;
+    margin-bottom: 5px;
     color: darkgray;
     font-weight: 500;
     font-style: unset;
